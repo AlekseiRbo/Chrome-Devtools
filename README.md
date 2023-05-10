@@ -1,60 +1,57 @@
-Devtools HW
+Devtools HW  
 
-Сделать скрин видео выполнения задания.
-Видео засылайте в личку.
+Take a screenshot of the video of the task.
+Video send in a personal.
 
- 1. Открыть Chrome DevTools
- 2. Зайти в панель Elements
- 3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
- 4. Включить режим мобильного деввайса (Device Mode)
- 5. Выставить Dimensions: Responsive 
- 6. Выбрать Responsive - Mobile
- 7. Продемонстрировать работу дизайна Responsive
- 8. Выставить Dimensions: Adaptive (select device).
- 9. Создать свой девайс.
- 10. Выставить Throttling low-end mobile
- 11. Обновить страницу
- 12. Перевести в ландшафтные режим.
- 13. Выключить Device Mode
- 14. Открыть панель Console.
- 15. Найти 2 сообщения Error в логах
- 16. Сохранить эти 2 сообщения лога как файл на компьютер.
- 17. Найти 1 сообщение verbose
- 18. Пролистать логи Warnings, Info, User Messages.
- 19. Открыть вкладку Sources.
- 20. Открыть файл Index
- 21. Открыть вкладку Network
- 22. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
- 23. Найти лог request/responce  
- 24. Открыть вкладку Headers
- 25. Просмотреть General, Response Headers, Request Headers
- 26. Найти и скопировать в новый текстовый файл header - User-Agent.
- 27. Открыть вкладку Preview
- 28. Развернуть все уровни вложенности JSON.
- 29. Открыть вкладку Application.
- 30. Развернуть все Storage в левом столбце.
- 31. Зайти в Cache Storage и Application Cache
- 32. Там везде будет пусто.
- 33. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
- 34. Откройте вкладку LightHouse
- 35. Нажмите Generate report
- 36. Установить в браузер бесплатный AdBlocker
- 37. Установить в браузер Json Viewer
- 38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
- 39. Сделать и сохранить скриншот видимой части страницы сайта.
- 40. Сделать и сохранить скриншот всего сайта
- 41. Изменить локацию GPS. Продемонстрировать на сайте Гугл карт.
- 42. Изменить локацию GPS второй раз. Продемонстрировать на сайте Гугл карт.
- 43. Найти интерфейс для изменения User-Agent
- 44. Подставить другой User-Agent 
- 45. Отправить запрос на http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
- 46. Проверить изменился ли ваш нативный User-Agent на новый, подставленный.
- 47. Создать свой юзер агент
- 48. Повторить пункты 45, 46
- 49. Найти интерфейс для изменения/добавления параметров Throttling
- 50. Создать свои параметры плохого соединения и проверить как будет загружаться страница.
- 51. Найти интерфейс для изменения/добавления параметров Locations
- 52. Проверить на Google карте как применяются изменения локации
-
-
-
+ 1. Open Chrome DevTools
+ 2. Go to the Elements panel
+ 3. Find the Submit button with the inspector and align the word Submit to the center
+ 4. Enable mobile device mode (Device Mode)
+ 5. Set Dimensions: Responsive
+ 6. Select Responsive - Mobile
+ 7. Demonstrate Responsive design work
+ 8. Set Dimensions: Adaptive (select device)
+ 9. Create your device
+ 10. Set Throttling low-end mobile
+ 11. Refresh page
+ 12. Switch to landscape mode
+ 13. Turn off Device Mode
+ 14. Open the Console panel
+ 15. Find 2 Error messages in the logs
+ 16. Save these 2 log messages as a file on your computer
+ 17. Find 1 verbose message
+ 18. Scroll through the Warnings, Info, User Messages logs
+ 19. Open the Sources tab
+ 20. Open index file
+ 21. Open the Network tab
+ 22. In url send send http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
+ 23. Find request/response log
+ 24. Open Headers tab
+ 25. View General, Response Headers, Request Headers
+ 26. Find and copy into a new text file header - User-Agent
+ 27. Open Preview tab
+ 28. Expand all JSON nesting levels
+ 29. Open the Application tab
+ 30. Expand all Storage in the left column
+ 31. Go to Cache Storage and Application Cache
+ 32. It will be empty everywhere
+ 33. Open any site you want. (Enter the site URL in the address bar and press Enter)
+ 34. Open the LightHouse tab
+ 35. Click Generate report
+ 36. Install free AdBlocker in your browser
+ 37. Install Json Viewer in Browser
+ 38. Go to the site https://ksendzov.com (https://ksendzov.com/)
+ 39. Make and save a screenshot of the visible part of the site page
+ 40. Take and save a screenshot of the entire site
+ 41. Change GPS location. Show on Google Maps
+ 42. Change GPS location a second time. Show on Google Maps
+ 43. Find Interface to Change User-Agent
+ 44. Substitute another User-Agent
+ 45. Send request to http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
+ 46. ​​Check if your native User-Agent has changed to a new, substituted one
+ 47. Create your own user agent
+ 48. Repeat steps 45, 46
+ 49. Find interface for changing/adding Throttling options
+ 50. Create your own bad connection parameters and check how the page will load
+ 51. Find interface for changing/adding Locations parameters
+ 52. Check on Google map how location changes are applied
